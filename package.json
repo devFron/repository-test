@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/devFron/repository-test/issues"
   },
-  "homepage": "https://github.com/devFron/repository-test#readme"
+  "homepage": "https://github.com/devFron/repository-test#readme",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
 }
